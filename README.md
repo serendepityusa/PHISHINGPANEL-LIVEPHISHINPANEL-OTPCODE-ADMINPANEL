@@ -34,7 +34,7 @@ PHISHINGPANEL-LIVEPHISHINPANEL-OTPCODE-ADMINPANEL
 
 ## 🔥 Panel Screenshots (video available in Telegram, @serendepityusa)
 
-![LivePanelPhoto](https://ibb.co/jvJYt3d1)
+![LivePanelPhoto]([https://ibb.co/jvJYt3d1](https://i.ibb.co/VWwG6MdP/1.jpg))
 ![LivePanelPhoto](https://ibb.co/h1ZGkxvG)
 ![LivePanelPhoto](https://ibb.co/LhZ5yf9w)
 ![LivePanelPhoto](https://ibb.co/MyTjsxP1)
