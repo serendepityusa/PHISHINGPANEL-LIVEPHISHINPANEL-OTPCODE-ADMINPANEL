@@ -1,6 +1,3 @@
-# PHISHINGPANEL-LIVEPHISHINPANEL-OTPCODE-ADMINPANEL
-PHISHINGPANEL-LIVEPHISHINPANEL-OTPCODE-ADMINPANEL
-
 # Live Panel – Phishing Panel (3DS+OTP, CC, SNIFFER, 2FA, LIVE-PANEL, PHISHING-PANEL)
 
 ## 🔥 Live Panel Features (non-exhaustive list):
@@ -34,11 +31,11 @@ PHISHINGPANEL-LIVEPHISHINPANEL-OTPCODE-ADMINPANEL
 
 ## 🔥 Panel Screenshots (video available in Telegram, @serendepityusa)
 
-![LivePanelPhoto]([https://ibb.co/jvJYt3d1](https://i.ibb.co/VWwG6MdP/1.jpg))
-![LivePanelPhoto](https://ibb.co/h1ZGkxvG)
-![LivePanelPhoto](https://ibb.co/LhZ5yf9w)
-![LivePanelPhoto](https://ibb.co/MyTjsxP1)
-![LivePanelPhoto](https://ibb.co/MDm8HnWZ)
+![LivePanelPhoto](https://i.ibb.co/VWwG6MdP/1.jpg)
+![LivePanelPhoto](https://i.ibb.co/Z1YQ3RCQ/2.jpg)
+![LivePanelPhoto](https://i.ibb.co/S73rgpVT/3.jpg)
+![LivePanelPhoto](https://i.ibb.co/Gfw104CM/4.jpg)
+![LivePanelPhoto](https://i.ibb.co/XZqyPXNj/5.jpg)
 
 ## 💌 Contact & Purchasing
 
